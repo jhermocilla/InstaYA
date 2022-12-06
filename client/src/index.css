@@ -1,0 +1,56 @@
+form {
+  position : relative;
+  align-items: center;
+  
+  
+}
+
+h2{
+  text-align: center;
+}
+
+.registro{
+  display: flex;
+  justify-content: right;
+  
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+.abs-center-reg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.abs-center-ao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 135vh;
+}
+
+.abs-center-ro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120vh;
+}
+
+.form {
+  width: 550px;
+}
+
+.Lenlinea{
+  display: inline;
+}
+
+.form-control{
+  display: inline;
+}
